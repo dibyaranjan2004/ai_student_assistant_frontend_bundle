@@ -1,0 +1,7 @@
+requirements.txtstreamlit
+scikit-learn
+pandas
+numpy
+joblib
+matplotlib
+python-dateutil
